@@ -42,8 +42,8 @@ This project is a simple e-commerce application that integrates with PayTabs' iF
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/MyPayTabsShop.git
-    cd MyPayTabsShop
+    git clone https://github.com/bienql/paytabs-assessment.git
+    cd paytabs-assessment
     ```
 
 2.  **Install Java:**
